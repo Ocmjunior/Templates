@@ -1,0 +1,25 @@
+Product description **Student & Teacher Portfolio Landing Page**
+
+This is our new product called Student & Teacher sites. This is a 1 page landing page design for those of you who want to explore about Digital Marketing. Drafts are easy to edit, customize, and resize, thanks to their vector shapes, and well-organized layers.
+
+**Highlights** 
+
+* 1 Landing page design (Desktop) 
+* 100% Color Customizable 
+* Compatibility with Figma & Photoshop
+* Vector
+* Based Assets
+* Well Organized Layer 
+
+**Source & Credits** 
+
+https://fonts.google.com/specimen/Inter
+
+Check introduction
+
+**Note**
+
+* Please download and install the fonts before opening the file. 
+* Images in the main file are replaced by placeholders, all images used for demo purpose
+
+Portfolio, Website, Web, school, Academy, study, Personal, teacher, University, student, Responsive, Ui, Ux, Landing page, Template
